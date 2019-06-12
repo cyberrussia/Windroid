@@ -31,6 +31,21 @@
 //LED 3D gamma technology
 //LED 3D bridthness technology
 //LED 3D contrast technology
+//LED 3D technology
+//LED 3D screen technology
+//Optimizing Start Menu
+//Optimizing Start Menu technology
+//Fixed holes Start Menu
+//Fixed holes Start Menu technology
+//Optimizing Toolbar technology
+//Fixed holes Toolbar technology
+//Optimizing Desktop technology
+//Fixed holes Desktop technology
+//RAM 3D performance technology
+//CPU 3D performance techonology
+//GPU 3D performance technology
+//GPU unlimited power technology
+//RAM unlimited power technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -55,6 +70,8 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
+
 
 
 
