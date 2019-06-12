@@ -50,6 +50,8 @@
 //Optimizing Ethernet technology
 //Fixed holes Wi-Fi technology
 //Fixed holes Ethenret technology
+//LED upscale technology
+//Screen upscale technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -74,6 +76,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
