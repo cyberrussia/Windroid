@@ -52,6 +52,12 @@
 //Fixed holes Ethenret technology
 //LED upscale technology
 //Screen upscale technology
+//Optimizing fonts technology
+//Fixed holes for fonts technology
+//Optimizing applications technology
+//Fixed holes for application technology
+//Modern UI technology for applications
+//Modern Interface technology for applications
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -76,6 +82,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
