@@ -85,6 +85,8 @@
 //Screen bloom technology
 //Screen surface blur technology
 //Screen Vibrance -35 technology
+//Modern UI for Explorer
+//Modern Interface for Explorer
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -109,6 +111,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
