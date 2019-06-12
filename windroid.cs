@@ -46,6 +46,10 @@
 //GPU 3D performance technology
 //GPU unlimited power technology
 //RAM unlimited power technology
+//Optimizing Wi-Fi technology
+//Optimizing Ethernet technology
+//Fixed holes Wi-Fi technology
+//Fixed holes Ethenret technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -70,6 +74,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
