@@ -79,6 +79,12 @@
 //Screen super resolution technology
 //Screen ultra Hight Definition technology
 //Screen virtual ultra hight definition technology
+//Screen ultra hight quality technology
+//Screen virtual ultra hight quality technology
+//Screen sharpen technology
+//Screen bloom technology
+//Screen surface blur technology
+//Screen Vibrance -35 technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -103,6 +109,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
