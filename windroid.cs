@@ -93,6 +93,9 @@
 //C:\Adobe Photoshop CC 2020\photoshop.exe
 //Modern Interface for Photoshop CC
 //Modern UI for Photoshop CC
+//Cleaned system cache technology
+//Cleaned virtual memory technology
+//Cleaned performance technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -117,6 +120,8 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
+
 
 
 
