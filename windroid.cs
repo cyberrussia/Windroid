@@ -60,6 +60,14 @@
 //Modern Interface technology for applications
 //Modern UI technology for applications frames
 //Modern Interneface technology for applications frames
+//Windows 11 UI technology for applications
+//Windows 11 UI technology for applications frames
+//Windows 11 Interface technology for applications
+//Windows 11 Interface technology for applications frames
+//Windows 9 UI technology for applications
+//Windows 9 UI technology for applications frames
+//Windows 9 Interface for applications
+//Windows 9 Interface for applications frames
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -84,6 +92,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
