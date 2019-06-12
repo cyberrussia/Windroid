@@ -77,6 +77,8 @@
 //Modern UI for uTorrent
 //Modern Interface for uTorrent
 //Screen super resolution technology
+//Screen ultra Hight Definition technology
+//Screen virtual ultra hight definition technology
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -101,6 +103,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
