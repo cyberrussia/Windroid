@@ -87,6 +87,8 @@
 //Screen Vibrance -35 technology
 //Modern UI for Explorer
 //Modern Interface for Explorer
+//Modern UI for file extensions
+//Modern Interface for file extensions
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -111,6 +113,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
