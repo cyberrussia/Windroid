@@ -89,6 +89,10 @@
 //Modern Interface for Explorer
 //Modern UI for file extensions
 //Modern Interface for file extensions
+//C:\Adobe Photoshop CC 2019\photoshop.exe
+//C:\Adobe Photoshop CC 2020\photoshop.exe
+//Modern Interface for Photoshop CC
+//Modern UI for Photoshop CC
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -113,6 +117,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
