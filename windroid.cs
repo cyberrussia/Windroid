@@ -280,6 +280,18 @@ unit library;
 //Redesign Interface for html5
 //Redesign Interface design for html5
 //Redesign design for html5
+//Redesign Desktop
+//Redesign Applications
+//Redesign context
+//Redesign context menu
+//Redesign toolbar
+//Redesign UI
+//Redesign Interface
+//Redesign design
+//Redesign start menu
+//Redesign toolbar
+//Redesign frames for applications
+//Redesign frames
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
