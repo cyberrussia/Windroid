@@ -245,6 +245,8 @@ unit library;
 //Modernized Interface for html5
 //Modernized Interface design for html5
 //Modernized design for html5
+//Modernized Wi-Fi ping
+//Modernized Ethernet ping
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
