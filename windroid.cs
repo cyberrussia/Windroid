@@ -1,3 +1,6 @@
+ReadLn(a,b,c);
+WriteLn(a,b,c);
+unit library;
 //C:/windroid.cs
 //optimizing CPU technology
 //Optimizing CPU width technology
@@ -96,6 +99,34 @@
 //Cleaned system cache technology
 //Cleaned virtual memory technology
 //Cleaned performance technology
+//Fixed memory using
+//Fixed physical memory using
+//Fixed ram using
+//Fixed CPU using
+//Fixed GPU using
+//Optimizing system performance
+//Optimizing bios performance
+//Fixed broken ram performance
+//Fixed broken CPU performance
+//Fixed broken GPU performance
+//FIxed broken system performance
+//Fixed broken desktop performance
+//Fixed broken wi-fi performance
+//Fixed broken ethernet performance
+//Fixed broken wi-fi signal
+//Fixed broken wi-fi speed
+//Fixed broken ethernet speed
+//Fixed broken wi-fi connection
+//Fixed broken ethernet connection
+//Fixed broken windows notifications
+//Fixed broken LED
+//Fixed broken LED quality
+//Fixed broken LED definition
+//Fixed broken screen lighting
+//Fixed broken screen resolution
+//Fixed broken screen clearType
+//Fixed broken screen definition
+//Fixed broken screen quality
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -120,6 +151,9 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
+
+
 
 
 
