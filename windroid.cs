@@ -247,6 +247,13 @@ unit library;
 //Modernized design for html5
 //Modernized Wi-Fi ping
 //Modernized Ethernet ping
+//Modern Wi-Fi speed
+//Modern Wi-Fi connection
+//Modern Wi-Fi ping
+//Modern Ethernet speed
+//Modern Ethernet ping
+//Modern Ethernet connection
+//Modern Wi-Fi signal
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
