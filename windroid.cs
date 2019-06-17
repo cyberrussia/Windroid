@@ -157,6 +157,16 @@ unit library;
 //Modern UI design for connections
 //Modern Interface design for connections
 //Modern design for connections
+//Modern UI for desktop icons
+//Modern UI design for desktop icons
+//Modern Interface for desktop icons
+//Modern Interface design for desktop icons
+//Modern design for desktop icons
+//Modern UI for desktop
+//Modern UI design for desktop
+//Modern Interface for desktop
+//Modern Interface design for desktop
+//Modern design for desktop
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
