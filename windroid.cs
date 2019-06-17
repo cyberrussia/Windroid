@@ -167,6 +167,13 @@ unit library;
 //Modern Interface for desktop
 //Modern Interface design for desktop
 //Modern design for desktop
+//Fixed broken performance for Visual Studio Code
+//Modern UI for explorer
+//Modern UI design for explorer
+//Modern interface design for explorer
+//Modern interface for explorer
+//Modern design for explorer
+//Fixed broken performance for explorer
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -191,6 +198,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
