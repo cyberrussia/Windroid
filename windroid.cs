@@ -208,6 +208,16 @@ unit library;
 //Modernized Interface for screen
 //Modernized Interface design for screen
 //Modernized design for screen
+//Modernized Wi-Fi speed
+//Modernized Wi-Fi connection
+//Modernized Wi-Fi signal
+//Modernized Ethernet speed
+//Modernized Ethernet connection
+//Modernized Ethernet signal
+//Modernized Tplink performance
+//Modernized Tplink
+//Modernized Wi-Fi
+//Modernized Ethernet
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
