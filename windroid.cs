@@ -174,6 +174,15 @@ unit library;
 //Modern interface for explorer
 //Modern design for explorer
 //Fixed broken performance for explorer
+//Modernized UI for applications
+//Modernized interface for applications
+//Modernized design for applications
+//Modernized design for explorer
+//Modernized UI design for applications
+//Modernized Interface design for applications
+//Modernized performance for CPU
+//Modernized performance for GPU
+//Modernized performance for Ram
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
