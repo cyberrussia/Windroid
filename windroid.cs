@@ -143,6 +143,15 @@ unit library;
 //Modern Interface for Wi-Fi
 //Modern UI design for Wi-Fi
 //Modern Interface design for Wi-Fi
+//Modern design for Wi-Fi
+//Modern design for applications
+//Modern design for html5
+//Modern design for html
+//Modern UI for Ethernet
+//Modern UI design for Ethernet
+//Modern Interface for Ethernet
+//Modern interface design for Ethernet
+//Modern design for Ethernet
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -167,6 +176,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
