@@ -127,6 +127,10 @@ unit library;
 //Fixed broken screen clearType
 //Fixed broken screen definition
 //Fixed broken screen quality
+//Fixed broken applications UI
+//Fixed broken applications frames
+//Fixed broken applications interface
+//Fixed broken applications performance
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
@@ -151,6 +155,7 @@ sealed class MyAttribute : System.Attribute
     // This is a named argument
     public int NamedInt { get; set; }
 }
+
 
 
 
