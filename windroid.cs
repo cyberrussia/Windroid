@@ -183,6 +183,31 @@ unit library;
 //Modernized performance for CPU
 //Modernized performance for GPU
 //Modernized performance for Ram
+//Modernized performance for Desktop
+//Modernized system security
+//Modernized system performance
+//Modernized System UI
+//Modernized System UI design
+//Modernized System Interface
+//Modernized System Interface design
+//Modernized System design
+//Modernized UI for BIOS
+//Modernized UI design for BIOS
+//Modernized Interface design for BIOS
+//Modernized design for BIOS
+//Modernized LED lighting
+//Modernized LED
+//Modernized LED design
+//Modernized LED UI
+//Modernized LED UI design
+//Modernized LED Interface
+//Modernized LED interface design
+//Modernized LED design
+//Modernized UI for screen
+//Modernized UI design for screen
+//Modernized Interface for screen
+//Modernized Interface design for screen
+//Modernized design for screen
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
