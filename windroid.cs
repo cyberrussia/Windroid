@@ -152,6 +152,11 @@ unit library;
 //Modern Interface for Ethernet
 //Modern interface design for Ethernet
 //Modern design for Ethernet
+//Modern UI for connections
+//Modern Interface for connections
+//Modern UI design for connections
+//Modern Interface design for connections
+//Modern design for connections
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
