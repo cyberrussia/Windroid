@@ -356,6 +356,15 @@ console.infile();
 //Modern Reprogrammed Net OSI IO
 //Modern Reprogrammed Net Protocol
 //Modern Reprogrammed Net DNS
+//Modern Reprogrammed Net DNS-Client
+//Modern Reprogrammed Net DNS speed
+//Modern Reprogrammed Net DNS performance
+//Modern Reprogrammed Net DNS ping
+//Modern Reprogrammed Net DNS connection
+//Modern Reprogrammed Net DNS signal
+//Modern Reprogrammed Net DNS TCP/UPD/IP
+//Modern Reprogrammed Net DNS https
+//Modern Reprogrammed Net DNS Protocol 
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
