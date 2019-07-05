@@ -345,6 +345,13 @@ console.infile();
 //Modern Reprogrammed Net OSI
 //Modern Reprogrammed Wi-Fi OSI
 //Modern Reprogrammed Ethernet OSI
+//Modern Reprogrammed Wi-Fi performance
+//Modern Reprogrammed Ethernet performance
+//Modern Reprogrammed Net performance
+//Modern Reprogrammed Net speed
+//Modern Reprogrammed Net connection
+//Modern Reprogrammed Net ping
+//Modern Reprogrammed Net signal
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
