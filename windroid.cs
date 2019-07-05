@@ -401,6 +401,9 @@ console.infile();
 //Modern Reprogrammed Windows Context
 //Modern Reprogrammed Windows Context menu
 //Modern Reprogrammed Windows explorer
+//Modern Reprogrammed Windows icons
+//Modern Reprogrammed Windows functions
+//Modern Reprogrammed Windows events
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
