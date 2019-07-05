@@ -366,6 +366,10 @@ console.infile();
 //Modern Reprogrammed Net DNS https
 //Modern Reprogrammed Net DNS Protocol 
 //Modern Reprogrammed Net fixed botnet/bothnet for DNS 
+//Modern Reprogrammed Net CLI
+//Modern Reprogrammed Net DNS CLI
+//Modern Reprogrammed Net DNS IO
+//Modern Reprogrammed Net DNS OSI
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
