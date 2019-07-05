@@ -352,6 +352,10 @@ console.infile();
 //Modern Reprogrammed Net connection
 //Modern Reprogrammed Net ping
 //Modern Reprogrammed Net signal
+//Modern Reprogrammed Net IO
+//Modern Reprogrammed Net OSI IO
+//Modern Reprogrammed Net Protocol
+//Modern Reprogrammed Net DNS
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
