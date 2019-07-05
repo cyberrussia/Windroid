@@ -417,6 +417,12 @@ console.infile();
 //Modern Reprogrammed Windows Hardware IO
 //Modern Reprogrammed Applications IO
 //Modern Reprogrammed Applications patched
+//Modern Reprogrammed Windows Toolbar IO
+//Modern Reprogrammed Windows start menu IO
+//Modern Reprogrammed Windows Desktop IO
+//Modern Reprogrammed Windows Context IO
+//Modern Reprogrammed Windows Context Menu IO
+//Modern Reprogrammed Windows performance IO
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
