@@ -404,6 +404,19 @@ console.infile();
 //Modern Reprogrammed Windows icons
 //Modern Reprogrammed Windows functions
 //Modern Reprogrammed Windows events
+//Modern Reprogrammed Windows Screen Resolution
+//Modern Reprogrammed Windows Screen pixels
+//Modern Reprogrammed Windows Applications performance
+//Modern Reprogrammed Windows Application speed
+//Modern Reprogrammed Windows CPU IO
+//Modern Reprogrammed Windows GPU IO
+//Modern Reprogrammed Windows RAM IO
+//Modern Reprogrammed Windows Explorer IO
+//Modern Reprogrammed Windows IO
+//Modern Reprogrammed Windows Hardware
+//Modern Reprogrammed Windows Hardware IO
+//Modern Reprogrammed Applications IO
+//Modern Reprogrammed Applications patched
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
