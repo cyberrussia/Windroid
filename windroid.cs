@@ -387,6 +387,20 @@ console.infile();
 //Modern Reprogrammed Windows Applications events
 //Modern Reprogrammed Windows Applications interface
 //Modern Reprogrammed Applications interface
+//Modern Reprogrammed Windows Start menu
+//Modern Reprogrammed Windows performance
+//Modern Reprogrammed Windows RAM
+//Modern Reprogrammed Windows RAM Patched
+//Modern Reprogrammed Windows executable patched
+//Modern Reprogrammed Windows CPU
+//Modern Reprogrammed Windows CPU patched
+//Modern Reprogrammed Windows GPU 
+//Modern Reprogrammed Windows GPU patched
+//Modern Reprogrammed Windows Interface
+//Modern Reprogrammed Windows Frames
+//Modern Reprogrammed Windows Context
+//Modern Reprogrammed Windows Context menu
+//Modern Reprogrammed Windows explorer
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
