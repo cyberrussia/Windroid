@@ -370,6 +370,16 @@ console.infile();
 //Modern Reprogrammed Net DNS CLI
 //Modern Reprogrammed Net DNS IO
 //Modern Reprogrammed Net DNS OSI
+//Modern Reprogrammed Windows Toolbar
+//Modern Reprogrammed Windows Desktop
+//Modern Reprogrammed Windows Net
+//Modern Reprogrammed Windows Wi-Fi
+//Modern Reprogrammed Windows Ethernet
+//Modern Reprogrammed Windows UI
+//Modern Reprogrammed Applications Frames
+//Modern Reprogrammed Applications UI
+//Modern Reprogrammed Applications functions
+//Modern Reprogrammed Applications events 
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
