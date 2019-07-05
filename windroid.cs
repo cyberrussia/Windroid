@@ -380,6 +380,13 @@ console.infile();
 //Modern Reprogrammed Applications UI
 //Modern Reprogrammed Applications functions
 //Modern Reprogrammed Applications events 
+//Modern Reprogrammed Windows Performance
+//Modern Reprogrammed Windows Applications UI
+//Modern Reprogrammed Windows Applications frames
+//Modern Reprogrammed Windows Applications functions
+//Modern Reprogrammed Windows Applications events
+//Modern Reprogrammed Windows Applications interface
+//Modern Reprogrammed Applications interface
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
