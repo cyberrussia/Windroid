@@ -1,6 +1,21 @@
 ReadLn(a,b,c);
 WriteLn(a,b,c);
 unit library;
+traits library;
+trait library;
+debug.compile();
+console.compile();
+console.debug();
+console.functions();
+console.library();
+console.write.text();
+console.read.text();
+console.save();
+console.save.as();
+console.interface();
+console.modern();
+debug.infile();
+console.infile();
 //C:/windroid.cs
 //optimizing CPU technology
 //Optimizing CPU width technology
@@ -294,6 +309,36 @@ unit library;
 //Redesign frames
 //Redesign html5
 //Redesign html
+//Optimizing NetIO Legacy TDI
+//Redesign NetIO Legacy TDI
+//Cloud NetIO Legacy TDI
+//Cloud NetIO Legacy TDI performance
+//Cloud NetIO Legacy TDI speed
+//Cloud NetIO Legacy TDI connection
+//Cloud NetIO Legacy TDI ping
+//Optimizing NetIO Legacy TDI performance
+//Optimizing NetIO Legacy TDI connection
+//Optimizing NetIO Legacy TDI speed
+//Optimizing NetIO Legacy TDI ping
+//Removed Botnet for NetIO Legacy TDI
+//Removed Bothnet for NetIO Legacy TDI
+//Reprogrammed NetIO Legacy TDI
+//Reprogmammed Wi-Fi 
+//Reprogrammed Ethernet
+//Optimizing DNS-Client
+//Cloud DNS-Client
+//Reprogrammed DNS-Client
+//Modern Reprogrammed DNS-Client
+//Modern Reprogrammed NetIO Legacy TDI
+//Modern Reprogrammed Wi-Fi
+//Modern Reprogrammed Wi-Fi speed
+//Modern Reprogrammed Wi-Fi ping
+//Modern Reprogrammed Wi-Fi connection
+//Modern Reprogrammed Ethernet
+//Modern Reprogrammed Ethernet connection
+//Modern Reprogrammed Ethernet speed
+//Modern Reprogrammed Ethernet ping
+//Modern Reprogrammed Wi-Fi Signal
 [System.AttributeUsage(System.AttributeTargets.Windroid, Inherited = false, AllowMultiple = true)]
 sealed class MyAttribute : System.Attribute
 {
